@@ -62,12 +62,6 @@ AWS CloudWatch traffic log data including:
 
 ---
 
-## 📷 Dashboard Screenshot
-
-> *(Attach your dashboard image here)*
-
----
-
 ## 👣 Steps Performed
 
 1. Export logs from AWS CloudWatch
@@ -90,12 +84,9 @@ AWS CloudWatch traffic log data including:
 ---
 
 ## 📎 Project Links
-
-| Link | Status |
-|------|--------|
 | Dashboard | ✅ Completed |
-| GitHub | 🔗 *(Add after upload)* |
-| LinkedIn Post | 🔗 *(Add after posting)* |
+| GitHub | 🔗 [(https://github.com/tanishadhaka17) |
+| LinkedIn Post | 🔗 (www.linkedin.com/in/tanisha-dhaka)|
 
 ---
 
